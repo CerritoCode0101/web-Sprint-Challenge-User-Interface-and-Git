@@ -18,7 +18,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
 	padding: 0;
-	/*border: 0; */
+	border: 0; 
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -61,7 +61,7 @@ table {
 
 * {
     box-sizing: border-box;
-    border:red 2px solid;
+    
 }
 
 html, body {
@@ -269,7 +269,10 @@ border:2px solid;}
 .hero {width:100%;
 margin:30px;}
 
-#bigdiv1 {display:flex;}
-#bigdiv2 {display:flex;}
+#bigdiv1 {display:flex;
+margin:50px;}
+#bigdiv2 {display:flex;
+margin:50px;}
  
+#together {padding:3%;}
 
