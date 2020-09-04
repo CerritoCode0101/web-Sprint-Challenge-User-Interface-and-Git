@@ -28,6 +28,17 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+.topnav {display:flex;
+justify-content: space-around;
+margin:25px;}
+
+.topnav a{ padding:10px 110px 0px 0 ;
+    margin-top:20px;
+}
+
+.topnav img{ margin-left:190px;
+margin-bottom:25px;}
 body {
 	line-height: 1;
 }
